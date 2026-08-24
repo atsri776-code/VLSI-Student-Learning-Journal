@@ -1,1 +1,0 @@
-This module focuses on RTL synthesis and gate-level netlist analysis using Verilog HDL and SKY130 standard-cell libraries. It covers synthesis of RTL designs, generation and examination of netlists, analysis of synthesized logic, and verification of circuit behavior using simulation and waveform results.

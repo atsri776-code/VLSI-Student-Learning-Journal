@@ -1,1 +1,0 @@
-This module focuses on sequential RTL design using Verilog HDL. It covers flip-flops, counters, constant propagation, and optimization of sequential circuits. The designs are simulated and synthesized to analyze their behavior and understand how constant values and RTL coding styles affect the resulting hardware.

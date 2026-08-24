@@ -1,1 +1,0 @@
-This module focuses on RTL coding practices and optimization techniques using Verilog HDL. It covers different coding styles, incomplete if and case statements, synthesis behavior, hardware inference, and RTL optimization. The designs are simulated and synthesized to understand how Verilog code is converted into optimized hardware.

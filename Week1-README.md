@@ -1,1 +1,0 @@
-This module introduces the fundamentals of RTL design using Verilog HDL. It covers RTL design and testbench creation, simulation using Icarus Verilog, waveform analysis using GTKWave, understanding SKY130 Liberty files, and generating and visualizing synthesized netlists. It provides a foundation for understanding the complete RTL-to-gate-level design flow.

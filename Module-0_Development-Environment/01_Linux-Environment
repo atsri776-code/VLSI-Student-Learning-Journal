@@ -1,0 +1,18 @@
+# Linux Environment
+
+## Description
+
+Linux-based command-line environment used for RTL development, project file management, compilation, simulation, and execution of EDA tools.
+
+## Topics Covered
+
+- Linux terminal
+- Command-line operations
+- Directory navigation
+- File management
+- Project workspace organization
+- EDA tool execution
+
+## Learning Outcome
+
+Developed familiarity with the Linux environment required for RTL design, simulation, synthesis, and VLSI development workflows.
